@@ -1,0 +1,3 @@
+Root Book / Customer lỗi add new exception.
+Delete Customer
+Validation Empty field / Business Rule / Numberic / Empty Quantity / abc123_@_ regex 

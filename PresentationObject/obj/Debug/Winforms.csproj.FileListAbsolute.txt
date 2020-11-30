@@ -1,0 +1,209 @@
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\Winforms.csprojAssemblyReference.cache
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\Winforms.csproj.GenerateResource.cache
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\Winforms.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmOrder.resources
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.exe.config
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.exe
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.pdb
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\ActionService.dll
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\AutoMapper.dll
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.dll
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\ActionService.pdb
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\AutoMapper.xml
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.pdb
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.dll.config
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.exe
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.exe.config
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.exe
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\ActionService.dll
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\AutoMapper.dll
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\BusinessObjects.dll
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.dll
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\ActionService.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\BusinessObjects.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\AutoMapper.xml
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.dll.config
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmOrder.resources
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.exe
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.exe.config
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.exe
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\ActionService.dll
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\AutoMapper.dll
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.dll
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\ActionService.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\AutoMapper.xml
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\bin\Debug\DataObject.dll.config
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\BookSaleApp.frmOrder.resources
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.exe
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\PresentationObject\obj\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinFroms.exe
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\WinFroms.exe.config
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\WinFroms.exe
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\ActionService.dll
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\AutoMapper.dll
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\DataObject.dll
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\ActionService.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\AutoMapper.xml
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\DataObject.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\bin\Debug\DataObject.dll.config
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\PresentationObject\obj\Debug\WinFroms.frmOrder.resources
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.exe.config
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.exe
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.pdb
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.dll
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.dll
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.pdb
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.xml
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.pdb
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll.config
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.frmOrder.resources
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.exe
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.exe.config
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.exe
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.dll
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.dll
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.xml
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll.config
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.frmOrder.resources
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.exe
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.exe.config
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.exe
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\WinFroms.pdb
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.dll
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.dll
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.pdb
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.xml
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.pdb
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll.config
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmManageBook.resources
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmManager.resources
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.frmOrder.resources
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.Properties.Resources.resources
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.exe
+C:\Users\innoc\Downloads\Compressed\11-7-2020-ProjectPRN292\11-7-2020-ProjectPRN292\PresentationObject\obj\Debug\WinFroms.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\ActionService.dll
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\AutoMapper.dll
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\DataObject.dll
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\ActionService.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\AutoMapper.xml
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\DataObject.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\DataObject.dll.config
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\WinForms.exe.config
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\WinForms.exe
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\bin\Debug\WinForms.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.Properties.Resources.resources
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.exe
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.frmOrder.resources
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\WinForms.frmCustomer.resources
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\BookSaleApp.frmBook.resources
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\PresentationObject\obj\Debug\BookSaleApp.frmMain.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\WinForms.exe.config
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\WinForms.exe
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\WinForms.pdb
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.dll
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.dll
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.dll
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\ActionService.pdb
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\BusinessObjects.pdb
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\AutoMapper.xml
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.pdb
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\bin\Debug\DataObject.dll.config
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csprojAssemblyReference.cache
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.frmCustomer.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmLogin.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmBook.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\BookSaleApp.frmMain.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.frmOrder.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.Properties.Resources.resources
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.GenerateResource.cache
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.csproj.CopyComplete
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.exe
+F:\Home work\PRN292\Project\My Project\11-10-2020-ProjectPRN292\PresentationObject\obj\Debug\WinForms.pdb

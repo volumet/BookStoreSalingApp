@@ -1,0 +1,4 @@
+D:\Documents\PRN292\BookSaleApp\WinFroms\obj\Debug\WinFroms.csprojAssemblyReference.cache
+D:\Documents\PRN292\BookSaleApp\WinFroms\obj\Debug\WinFroms.Properties.Resources.resources
+D:\Documents\PRN292\BookSaleApp\WinFroms\obj\Debug\WinFroms.csproj.GenerateResource.cache
+D:\Documents\PRN292\BookSaleApp\WinFroms\obj\Debug\WinFroms.csproj.CoreCompileInputs.cache

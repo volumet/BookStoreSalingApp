@@ -1,0 +1,13 @@
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\bin\Debug\BookSaleApp.exe.config
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\bin\Debug\BookSaleApp.exe
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\bin\Debug\BookSaleApp.pdb
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.csprojAssemblyReference.cache
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.Properties.Resources.resources
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.csproj.GenerateResource.cache
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.exe
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.pdb
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.frmManager.resources
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.frmOrder.resources
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.frmLogin.resources
+D:\Documents\PRN292\BookSaleApp\BookSaleApp\obj\Debug\BookSaleApp.frmManageBook.resources

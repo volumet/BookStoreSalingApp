@@ -1,0 +1,48 @@
+C:\Users\innoc\Downloads\Compressed\MyProject\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\MyProject\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\innoc\Downloads\Compressed\MyProject\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\innoc\Downloads\Compressed\MyProject\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\MyProject\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Documents\PRN292\MyProject_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\bin\Debug\BusinessObjects.dll
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\bin\Debug\BusinessObjects.pdb
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.dll
+F:\C#\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\MyProject_1_2_3_4_Layers\MyProject_2_3_4_Layers\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\innoc\Downloads\Compressed\FinalOfTestVer\MyProject_Ver3\MyProject_Ver3\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-4-2020-ProjectPRN292\11-4-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-6-2020-ProjectPRN292\11-6-2020-ProjectPRN292\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Documents\PRN292\Project\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\11-8-2020-ProjectPRN292 - Fixed CustPhoneNo\BusinessObjects\obj\Debug\BusinessObjects.pdb
